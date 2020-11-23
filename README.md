@@ -15,4 +15,8 @@ A new dataframe is created from our three principle components. From this, we cr
 Predictions are then added to our dataframe as we move towards clustering and visualization.
 
 ## Visualization
-Our data is later scaled for display in a 3D scatter plot.
+PCA data is displayed in a 3D scatter plot.
+
+An Interactive table is generated detailing all tradeable currencies.
+
+A Scatterplot details the scaled-coin mining and supply statistics.
